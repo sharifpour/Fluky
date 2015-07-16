@@ -6,7 +6,8 @@ using System.Drawing;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
-
+//Coding And Design : Learn-Site.Com
+//Sharifpour
 namespace GoureKeshi
 {
     public partial class Form1 : Form
