@@ -1,0 +1,8 @@
+C:\Users\Sharifpour\Desktop\Files\C#\GoureKeshi\GoureKeshi\obj\Debug\GoureKeshi.csprojResolveAssemblyReference.cache
+C:\Users\Sharifpour\Desktop\Files\C#\GoureKeshi\GoureKeshi\obj\Debug\GoureKeshi.Form1.resources
+C:\Users\Sharifpour\Desktop\Files\C#\GoureKeshi\GoureKeshi\obj\Debug\GoureKeshi.csproj.GenerateResource.Cache
+C:\Users\Sharifpour\Desktop\Files\C#\GoureKeshi\GoureKeshi\bin\Debug\ShanSi.exe
+C:\Users\Sharifpour\Desktop\Files\C#\GoureKeshi\GoureKeshi\bin\Debug\ShanSi.pdb
+C:\Users\Sharifpour\Desktop\Files\C#\GoureKeshi\GoureKeshi\obj\Debug\ShanSi.Properties.Resources.resources
+C:\Users\Sharifpour\Desktop\Files\C#\GoureKeshi\GoureKeshi\obj\Debug\ShanSi.exe
+C:\Users\Sharifpour\Desktop\Files\C#\GoureKeshi\GoureKeshi\obj\Debug\ShanSi.pdb
